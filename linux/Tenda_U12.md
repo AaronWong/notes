@@ -10,7 +10,7 @@ git clone https://github.com/gnab/rtl8812au.git
 
 ## 2 方法一：
 
-###　Building
+### Building
 
 ```shell
 $ cd 目录
