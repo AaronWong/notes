@@ -1,16 +1,7 @@
 # bert 模型 详解（论文）
 
-[TOC]
-
-## 参考资料：
-
-【1】[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf) 
-【2】论文解读:BERT模型及fine-tuning - 习翔宇的文章 - 知乎 https://zhuanlan.zhihu.com/p/46833276
-【3】NLP的游戏规则从此改写？从word2vec, ELMo到BERT - 夕小瑶的文章 - 知乎 https://zhuanlan.zhihu.com/p/47488095
-【4】Vaswani A, Shazeer N, Parmar N, et al. [Attention is all you need](https://arxiv.org/pdf/1706.03762.pdf)[C]//Advances in Neural Information Processing Systems. 2017: 5998-6008.
-【5】GAUSSIAN ERROR LINEAR UNITS (GELUS)  https://arxiv.org/pdf/1606.08415.pdf
-* * *
 **BERT**全称**B**idirectional **E**ncoder **R**epresentations from **T**ransformers，是预训练语言表示的方法，可以在大型文本语料库（如维基百科）上训练通用的“语言理解”模型，然后将该模型用于下游NLP任务，比如机器翻译、问答等等。
+
 
 
 
@@ -197,3 +188,13 @@ Table 1: GLUE Test results, scored by the GLUE evaluation server. The number bel
 * 预训练 数据处理不同：GPT只在微调时添加了 [SEP], [CLS] 的标识 token；BERT在预训练的时候就添加了 [SEP], [CLS]，并添加了 A/B embeddings 句向量
 * 预训练时的 同时样是1M steps，但 batch_size 的 词数不同
 * 微调时的 learning rate：GPT 都为 5e-5；BERT 根据验证集选择合适的 learning rate
+
+
+
+## 参考资料：
+
+【1】[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)    
+【2】论文解读:BERT模型及fine-tuning - 习翔宇的文章 - 知乎 https://zhuanlan.zhihu.com/p/46833276   
+【3】NLP的游戏规则从此改写？从word2vec, ELMo到BERT - 夕小瑶的文章 - 知乎 https://zhuanlan.zhihu.com/p/47488095   
+【4】Vaswani A, Shazeer N, Parmar N, et al. [Attention is all you need](https://arxiv.org/pdf/1706.03762.pdf)[C]//Advances in Neural Information Processing Systems. 2017: 5998-6008.   
+【5】GAUSSIAN ERROR LINEAR UNITS (GELUS)  https://arxiv.org/pdf/1606.08415.pdf   
