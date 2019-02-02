@@ -8,7 +8,7 @@
 
 ### 1.3 [激活函数](https://github.com/AaronWong/notes/blob/master/deep_learning/basis/1.3_ActivationFunction.md)
 
-sigmoid、tanh、ReLU、Leaky ReLU
+sigmoid、tanh、ReLU、Leaky ReLU，为什么需要非线性激活函数？
 
 ### 1.4 正则化
 
