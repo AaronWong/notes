@@ -6,7 +6,7 @@
 
 ### 1.2 深层神经网络
 
-### 1.3 激活函数
+### 1.3 [激活函数](./basis/1.3 激活函数.md)
 
 sigmoid、tanh、ReLU、Leaky ReLU
 
