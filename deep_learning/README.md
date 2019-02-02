@@ -1,4 +1,4 @@
-# deep_learning notes
+# Deep Learning Notes
 
 ## 1 deep_learning.ai
 
@@ -10,4 +10,16 @@
 ### 1.3 Structuring Machine Learning Projects
 ### 1.4 Convolutional Neural Networks
 ### 1.5 Sequence Models
+
+
+
+## 2 Deep Learning basis
+
+### 2.1 神经网络基础
+
+### 2.2 CNN
+
+### 2.3 RNN
+
+### 2.4 NLP
 
