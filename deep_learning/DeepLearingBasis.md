@@ -2,7 +2,9 @@
 
 ## 1 神经网络基础
 
-### 1.1 浅层神经网络
+### 1.1 [浅层神经网络](https://github.com/AaronWong/notes/blob/master/deep_learning/basis/1.1_ShallowNeuralNetworks)
+
+两层神经网络、随机初始化
 
 ### 1.2 深层神经网络
 
