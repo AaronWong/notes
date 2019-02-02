@@ -13,7 +13,7 @@
 
 
 
-## 2 Deep Learning basis
+## 2 [Deep Learning basis](https://github.com/AaronWong/notes/blob/master/deep_learning/DeepLearingBasis.md)
 
 ### 2.1 神经网络基础
 
