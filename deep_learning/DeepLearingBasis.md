@@ -6,7 +6,9 @@
 
 两层神经网络、随机初始化
 
-### 1.2 深层神经网络
+### 1.2 [深层神经网络](https://github.com/AaronWong/notes/blob/master/deep_learning/basis/1.2_DeepNeuralNetworks.md)
+
+计算流程图、前向传播和反向传播
 
 ### 1.3 [激活函数](https://github.com/AaronWong/notes/blob/master/deep_learning/basis/1.3_ActivationFunction.md)
 
