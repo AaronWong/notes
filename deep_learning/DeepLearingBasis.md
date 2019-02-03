@@ -14,7 +14,9 @@
 
 sigmoid、tanh、ReLU、Leaky ReLU，为什么需要非线性激活函数？
 
-### 1.4 正则化
+### 1.4 [正则化](https://github.com/AaronWong/notes/blob/master/deep_learning/basis/1.4_Regularization.md)
+
+L2正则化、dropout、数据扩增、early_stopping
 
 ### 1.5 梯度消失/梯度爆炸
 
