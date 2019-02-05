@@ -18,13 +18,15 @@ sigmoid、tanh、ReLU、Leaky ReLU，为什么需要非线性激活函数？
 
 L2正则化、dropout、数据扩增、early_stopping
 
-### 1.5 梯度消失/梯度爆炸
+### 1.5[ 预处理](https://github.com/AaronWong/notes/blob/master/deep_learning/basis/1.5_Pre-process.md)
 
-### 1.6 标准化输入 & 权重初始化
+标准化输入、梯度消失/梯度爆炸、权重初始化
 
-### 1.7 优化算法
+### 1.6 优化算法
 
-### 1.8 Batch Norm
+
+
+### 1.7 Batch Norm
 
 
 
