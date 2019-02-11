@@ -52,11 +52,11 @@ Foundations of Convolutional Neural Networks
 
 ## 3 RNN
 
-### 3.1 RNN基础
+### 3.1 [RNN基础](https://github.com/AaronWong/notes/blob/master/deep_learning/basis/3.1_RecurrentNeuralNetworks.md)
 
-Recurrent Neural Networks
+循环序列模型、前向传播和后向传播、不同类型的循环神经网络、语言模型和序列生成、对新序列采样、梯度消失
 
-### 3.2 LSTM & GRU
+### 3.2 LSTM & GRU & BRNN & DRNN
 
 ### 3.3 Attention
 
