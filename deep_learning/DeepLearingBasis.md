@@ -22,11 +22,13 @@ L2正则化、dropout、数据扩增、early_stopping
 
 标准化输入、梯度消失/梯度爆炸、权重初始化
 
-### 1.6 优化算法
+### 1.6 [优化算法](https://github.com/AaronWong/notes/blob/master/deep_learning/basis/1.6_OptimizationAlgorithms.md)
 
+Mini-batch 梯度下降、指数加权平均数、动量梯度下降法、RMSprop、Adam 优化算法、局部最优的问题
 
+### 1.7 [Batch Norm](https://github.com/AaronWong/notes/blob/master/deep_learning/basis/1.7_BatchNorm.md)
 
-### 1.7 Batch Norm
+归一化网络的激活函数、将 Batch Norm 拟合进神经网络、为什么**Batch**归一化会起作用呢
 
 
 
