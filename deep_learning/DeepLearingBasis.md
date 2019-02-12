@@ -56,9 +56,13 @@ Foundations of Convolutional Neural Networks
 
 循环序列模型、前向传播和后向传播、不同类型的循环神经网络、语言模型和序列生成、对新序列采样、梯度消失
 
-### 3.2 LSTM & GRU & BRNN & DRNN
+### 3.2 GRU &  LSTM & BRNN & DRNN
+
+
 
 ### 3.3 Attention
+
+
 
 ### 3.4 transformer
 
@@ -71,6 +75,8 @@ Foundations of Convolutional Neural Networks
 ### 4.2 Word Embeddings
 
 ### 4.3 评价指标
+
+BLEU
 
 ### 4.4 迁移学习
 
