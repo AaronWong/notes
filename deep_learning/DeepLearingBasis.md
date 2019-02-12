@@ -68,7 +68,11 @@ Foundations of Convolutional Neural Networks
 
 ### 4.1 N-gram
 
-### 4.2 Word Embeddings
+### 4.2 Word2vec
+
+* [word2vec Parameter Learning Explained](https://arxiv.org/pdf/1411.2738.pdf)
+
+* [[NLP] 秒懂词向量Word2vec的本质 - 穆文的文章 - 知乎](https://zhuanlan.zhihu.com/p/26306795)
 
 ### 4.3 评价指标
 
@@ -77,6 +81,8 @@ Foundations of Convolutional Neural Networks
 ### 4.5 ELMO
 
 ### 4.6 Bert
+
+* [bert 模型详解（论文）](https://github.com/AaronWong/notes/blob/master/deep_learning/paper/bert%20%E6%A8%A1%E5%9E%8B%E8%AF%A6%E8%A7%A3%EF%BC%88%E8%AE%BA%E6%96%87%EF%BC%89.md)
 
 
 
