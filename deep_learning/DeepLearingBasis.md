@@ -30,7 +30,7 @@ Mini-batch 梯度下降、指数加权平均数、动量梯度下降法、RMSpro
 
 归一化网络的激活函数、将 Batch Norm 拟合进神经网络、为什么**Batch**归一化会起作用呢
 
-
+   
 
 ## 2 CNN
 
@@ -48,7 +48,7 @@ Foundations of Convolutional Neural Networks
 
 ### 2.6 人脸识别
 
-
+   
 
 ## 3 RNN
 
@@ -66,18 +66,19 @@ Foundations of Convolutional Neural Networks
 
 ### 3.4 transformer
 
-
+   
 
 ## 4 NLP
 
 ### 4.1 N-gram
 
-### 4.2 Word2vec
+### 4.2 [Word2vec](https://github.com/AaronWong/notes/blob/master/deep_learning/basis/4.2_Word2vec.md)
 
 * [word2vec Parameter Learning Explained](https://arxiv.org/pdf/1411.2738.pdf)
 
 * [[NLP] 秒懂词向量Word2vec的本质 - 穆文的文章 - 知乎](https://zhuanlan.zhihu.com/p/26306795)
 
+CBOW、Skip-gram、Hierarchical Softmax、Negative Sampling
 ### 4.3 评价指标
 
 BLEU
@@ -90,7 +91,7 @@ BLEU
 
 * [bert 模型详解（论文）](https://github.com/AaronWong/notes/blob/master/deep_learning/paper/bert%20%E6%A8%A1%E5%9E%8B%E8%AF%A6%E8%A7%A3%EF%BC%88%E8%AE%BA%E6%96%87%EF%BC%89.md)
 
-
+   
 
 ---
 
