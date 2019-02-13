@@ -74,10 +74,6 @@ Foundations of Convolutional Neural Networks
 
 ### 4.2 [Word2vec](https://github.com/AaronWong/notes/blob/master/deep_learning/basis/4.2_Word2vec.md)
 
-* [word2vec Parameter Learning Explained](https://arxiv.org/pdf/1411.2738.pdf)
-
-* [[NLP] 秒懂词向量Word2vec的本质 - 穆文的文章 - 知乎](https://zhuanlan.zhihu.com/p/26306795)
-
 CBOW、Skip-gram、Hierarchical Softmax、Negative Sampling
 ### 4.3 评价指标
 
