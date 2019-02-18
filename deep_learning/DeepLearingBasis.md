@@ -60,9 +60,9 @@ Foundations of Convolutional Neural Networks
 
 
 
-### 3.3 Attention
+### 3.3 [Attention](https://github.com/AaronWong/notes/blob/master/deep_learning/basis/3.3_Attention.md)
 
-
+Seq2Seq_Attention
 
 ### 3.4 transformer
 
