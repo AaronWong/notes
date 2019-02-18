@@ -56,7 +56,7 @@ Foundations of Convolutional Neural Networks
 
 循环序列模型、前向传播和后向传播、不同类型的循环神经网络、语言模型和序列生成、对新序列采样、梯度消失
 
-### 3.2 GRU &  LSTM & BRNN & DRNN
+### 3.2 [GRU &  LSTM & BRNN & DRNN](https://github.com/AaronWong/notes/blob/master/deep_learning/basis/3.2_GRU_LSTM_BRNN_DRNN.md)
 
 
 
@@ -64,7 +64,7 @@ Foundations of Convolutional Neural Networks
 
 Seq2Seq_Attention
 
-### 3.4 transformer
+### 3.4 [Transformer](https://github.com/AaronWong/notes/blob/master/deep_learning/basis/3.4_Transformer.md)
 
    
 
