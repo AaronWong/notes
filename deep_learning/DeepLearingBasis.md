@@ -58,13 +58,15 @@ Foundations of Convolutional Neural Networks
 
 ### 3.2 [GRU &  LSTM & BRNN & DRNN](https://github.com/AaronWong/notes/blob/master/deep_learning/basis/3.2_GRU_LSTM_BRNN_DRNN.md)
 
-
+   
 
 ### 3.3 [Attention](https://github.com/AaronWong/notes/blob/master/deep_learning/basis/3.3_Attention.md)
 
 Seq2Seq_Attention
 
 ### 3.4 [Transformer](https://github.com/AaronWong/notes/blob/master/deep_learning/basis/3.4_Transformer.md)
+
+Transformer 结构图、Transformer 详解、Self-Attention
 
    
 
@@ -75,15 +77,20 @@ Seq2Seq_Attention
 ### 4.2 [Word2vec](https://github.com/AaronWong/notes/blob/master/deep_learning/basis/4.2_Word2vec.md)
 
 CBOW、Skip-gram、Hierarchical Softmax、Negative Sampling
+
 ### 4.3 评价指标
 
 BLEU
 
 ### 4.4 迁移学习
 
-### 4.5 ELMO
+### 4.5 [文本分类模型](https://github.com/AaronWong/notes/blob/master/deep_learning/basis/4.5_TextClassifier.md)
 
-### 4.6 Bert
+fastText、TextCNN、TextRNN、TextRNN + Attention、TextRCNN（TextRNN + CNN）
+
+### 4.6 ELMO
+
+### 4.7 Bert
 
 * [bert 模型详解（论文）](https://github.com/AaronWong/notes/blob/master/deep_learning/paper/bert%20%E6%A8%A1%E5%9E%8B%E8%AF%A6%E8%A7%A3%EF%BC%88%E8%AE%BA%E6%96%87%EF%BC%89.md)
 
