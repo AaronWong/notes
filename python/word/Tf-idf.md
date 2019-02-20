@@ -10,7 +10,7 @@
 
 ![idf_{i} = log\frac{\left| D \right|}{\left| \left\{ j:t_{i}\in d_{j}   \right\}  \right| }  ](https://www.zhihu.com/equation?tex=idf_%7Bi%7D+%3D+log%5Cfrac%7B%5Cleft%7C+D+%5Cright%7C%7D%7B%5Cleft%7C+%5Cleft%5C%7B+j%3At_%7Bi%7D%5Cin+d_%7Bj%7D+++%5Cright%5C%7D++%5Cright%7C+%7D++)
 
-* 当计算出**TF**和**IDF**的值后，两个一乘就得到**TF-IDF，**这个词的TF-IDF越高就表示，就表示在这篇文章中的重要性越大，越有可能就是文章的关键词。
+* 当计算出**TF**和**IDF**的值后，两个一乘就得到**TF-IDF**，这个词的TF-IDF越高就表示，就表示在这篇文章中的重要性越大，越有可能就是文章的关键词。
 
 ![TF-IDF\left( t \right) = TF\left( t \right) \times IDF\left( t \right) ](https://www.zhihu.com/equation?tex=TF-IDF%5Cleft%28+t+%5Cright%29+%3D+TF%5Cleft%28+t+%5Cright%29+%5Ctimes+IDF%5Cleft%28+t+%5Cright%29+)
 
@@ -34,7 +34,12 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 ```
 
 ```Python
-TfidfVectorizer(input='content', encoding='utf-8', decode_error='strict', strip_accents=None, lowercase=True, preprocessor=None, tokenizer=None, analyzer='word', stop_words=None, token_pattern='(?u)\\b\\w\\w+\\b', ngram_range=(1, 1), max_df=1.0, min_df=1, max_features=None, vocabulary=None, binary=False, dtype=<class 'numpy.int64'>, norm='l2', use_idf=True, smooth_idf=True, sublinear_tf=False)
+TfidfVectorizer(input='content', encoding='utf-8', decode_error='strict', 
+                strip_accents=None, lowercase=True, preprocessor=None, tokenizer=None,
+                analyzer='word', stop_words=None, token_pattern='(?u)\\b\\w\\w+\\b', 
+                ngram_range=(1, 1), max_df=1.0, min_df=1, max_features=None, 
+                vocabulary=None, binary=False, dtype=<class 'numpy.int64'>, norm='l2',
+                use_idf=True, smooth_idf=True, sublinear_tf=False)
 ```
 
    
